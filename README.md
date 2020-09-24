@@ -1,5 +1,7 @@
 # Twitter Sentiment Extraction
 Kaggle competition Link: https://www.kaggle.com/c/tweet-sentiment-extraction
+
+# Competition Results
 Rank 1670/2227 with 0.659 accuracy
 
 # Description
